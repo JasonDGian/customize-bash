@@ -1,5 +1,7 @@
 # 📌 Understanding the PS numbers and their meaning. 
 In Linux there are several environment variables that define the appearance and behavior of the shell prompt in the terminal. These variables are called PS0, PS1, PS2, PS3 .. etc.
+Each PS variable can be customized on its own and have them behave differently within their own context. In my case I have only customized PS1 and PS2 since those are the only two prompts I really see or care about. 
+
 
 **Here's what each one typically represents:**
 <table>
