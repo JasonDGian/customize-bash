@@ -5,8 +5,8 @@
 Here, you'll find basic bash customization techniques, configuration files, and tips to enhance both your user and root bash prompts.
 If you aim to transform your bash prompt into something like the images below, simply follow the instructions provided here.
 
-**📍 What will you achieve with this guide?**   
-This guide is rooted in my personal journey to explore bash customization—mainly for fun. However, the techniques here will help you achieve a clear visual distinction between your user and root prompts.
+**📍 What will you achieve with these changes?**   
+This repo is rooted in my personal journey to explore bash customization—mainly for fun. However, the techniques here will help you achieve a clear visual distinction between your user and root prompts.
 
 ### Key Features:
 
