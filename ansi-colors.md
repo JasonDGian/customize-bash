@@ -153,3 +153,10 @@ echo -e "\e[31mThis is red text \e[36m this is dark cyan \e[0m and from this poi
         <td>9</td>
     </tr>
 </table>
+
+
+## 🔹 Adding ansi to your prompt.
+To add ANSI colors to your prompt, there are a few important details to consider:
+- **Wrapping ANSI Codes:** When incorporating ANSI codes directly into your prompt, make sure to prefix them with `\[` and suffix them with `\]`. This practice ensures that the text width calculations are accurate and prevents the terminal from misinterpreting the formatting codes. I am not entirely sure why this is required but is the only consistent method I've found so far.
+
+- **Using Functions:** Alternatively, you can create functions to handle formatting and colors. This approach allows you to avoid repetitive code and simplifies the management of your prompt's appearance. I prefer this method because makes the prompt configuration easier to read and much more manageable in case of future changes.
