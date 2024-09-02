@@ -18,5 +18,5 @@ To use the script, follow these steps:
    
 > [!NOTE]
 > Please note that this script is still under development and may have some issues. Your feedback and suggestions are appreciated as I continue to refine it.
-> 
-![customize-bash](https://github.com/user-attachments/assets/adb36806-c3e7-46e6-8e14-c99df1aac07c)
+
+![customize-bash](https://github.com/user-attachments/assets/292c7472-b580-4767-9bce-4c0628f74192)
