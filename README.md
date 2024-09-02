@@ -1,6 +1,9 @@
 >[!warning] 
 >This guide is primarily designed for Arch Linux. While it should be compatible with most Linux distributions, certain details might vary depending on your specific system. I have only tested this with Arch Linux, Ubuntu, and Lubuntu.
 
+>[!Note]
+> I've included a standalone installation script. Simply run the script and follow the indications. More info [here](https://github.com/JasonDGian/customize-bash/blob/main/installation-script.md)
+
 # 📌 Welcome to my bash customization repository.
 Here, you'll find basic bash customization techniques, configuration files, and tips to enhance both your user and root bash prompts.
 If you aim to transform your bash prompt into something like the images below, simply follow the instructions provided here.
@@ -63,4 +66,5 @@ Your user console files should already exist in the `/home/<username>` directory
 To customize your user prompt, simply copy the contents of the file named `user.bashrc` into the `/home/<username>/.bashrc` file on your system.   
 
 To confirm the success of the operation open a **new** terminal and check your prompt then log into root to see if everything works. 
+
 
