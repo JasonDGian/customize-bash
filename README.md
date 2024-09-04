@@ -61,7 +61,7 @@ sudo cp /etc/skel/.bashrc /root
 Now that the root user has a console profile set up, you can proceed with customization.   
 To achieve the desired look, copy the content of the file named `root.bashrc` into the `/root/.bashrc` file in your system.
 
-## 🔹 Custime User prompt.
+## 🔹 Customize User prompt.
 Your user console files should already exist in the `/home/<username>` directory. As with the root prompt, **if you've configured any aliases, completely overwriting the .bashrc file could disrupt your setup.** Be sure to review the file before making changes.   
 To customize your user prompt, simply copy the contents of the file named `user.bashrc` into the `/home/<username>/.bashrc` file on your system.   
 
